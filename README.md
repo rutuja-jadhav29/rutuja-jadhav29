@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Data Analysis, Data Visualization, DBMS, MySQL, Machine Learning**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="jadhavrutuja.netlify.app" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://jadhavrutuja.netlify.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: She/Her
 
